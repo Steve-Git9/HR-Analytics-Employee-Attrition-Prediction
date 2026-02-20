@@ -1,5 +1,6 @@
-# HR-Analytics-Employee-Attrition-Prediction - (###Conducted on 15/02/2026 for educational purposes)
+# HR-Analytics-Employee-Attrition-Prediction 
 A comprehensive machine learning analysis aimed at identifying the key drivers of employee attrition and building predictive models to support proactive HR retention strategies.
+(Conducted on 15/02/2026 for educational purposes)
 
 ---
 
